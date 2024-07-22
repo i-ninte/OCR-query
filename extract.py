@@ -35,6 +35,6 @@ def extract_text_from_image(image_path):
     return text
 
 # Example usage
-image_path = 'test_image.png'
+image_path = 'test_image.jpeg'
 extracted_text = extract_text_from_image(image_path)
 print("Extracted Text:\n", extracted_text)
